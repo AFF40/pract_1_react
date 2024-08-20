@@ -1,10 +1,9 @@
 import './App.css';
-import Default from './screens/Default';
-
+import Tabla from './screens/Tabla';
 function App() {
   return (
     <div className="App">
-      <Default />
+      <Tabla />
     </div>
   );
 }
