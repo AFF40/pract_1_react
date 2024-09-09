@@ -1,9 +1,9 @@
-import Logo from './_components/Logo'; 
-import Description from './_components/Description';
+import Logo from './default/_components/Logo'; 
+import Description from './default/_components/Description';
 import OpenLink from '../components/OpenLink';
-import Contador from './_components/Contador';
+import Contador from './default/_components/Contador';
 
-import FilterableProductTable from './_components/FilterableProductTable';
+import FilterableProductTable from './default/_components/FilterableProductTable';
 
 
 const Default = () => {

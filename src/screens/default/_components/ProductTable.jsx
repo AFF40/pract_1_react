@@ -1,5 +1,5 @@
 //importar el estilo de la carpeta styles
-import '../../styles/ProductTable.css';
+import '../../../styles/ProductTable.css';
 import ProductCategoryRow from './ProductCategoryRow';
 
 const ProductTable = () => {

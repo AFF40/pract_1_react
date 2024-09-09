@@ -1,9 +1,12 @@
 import './App.css';
-import Tabla from './screens/Tabla';
+import NavBar from './components/NavBar';
+import { Outlet } from 'react-router-dom';
+
 function App() {
   return (
     <div className="App">
-      <Tabla />
+      <NavBar />
+      <Outlet />
     </div>
   );
 }

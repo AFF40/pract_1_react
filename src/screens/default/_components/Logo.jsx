@@ -1,4 +1,4 @@
-import logo from '../../logo.svg';
+import logo from '../../../logo.svg';
 import { useSelector } from "react-redux";
 const Logo = () => {
     const defaultState = useSelector(state => state.default); 

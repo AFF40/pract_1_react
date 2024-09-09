@@ -1,4 +1,4 @@
-import FilterableProductTable from "./_components/FilterableProductTable";
+import FilterableProductTable from "./default/_components/FilterableProductTable";
 
 const Tabla = () => {
   return (
